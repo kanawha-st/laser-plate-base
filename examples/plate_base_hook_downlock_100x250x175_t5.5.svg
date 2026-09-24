@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="368mm" height="260mm" viewBox="0 0 368 260">
+  <title>Four-panel loose tab-and-slot plate base</title>
+  <desc>Red paths are through-cuts. Blue text is optional engraving.</desc>
+  <g id="cut" fill="none" stroke="#ff0000" stroke-width="0.1" vector-effect="non-scaling-stroke">
+    <path id="left-outline" d="M 180 5 L 180 255 L 5 255 L 5 5 Z"/>
+    <path id="left-front-slot-1" d="M 153.85 10.4 L 153.85 16.1 L 128.65 16.1 L 128.65 10.4 Z"/>
+    <path id="left-front-slot-2" d="M 110.1 10.4 L 110.1 16.1 L 84.9 16.1 L 84.9 10.4 Z"/>
+    <path id="left-front-slot-3" d="M 66.35 10.4 L 66.35 16.1 L 41.15 16.1 L 41.15 10.4 Z"/>
+    <path id="left-back-slot-1" d="M 139.2667 243.9 L 139.2667 249.6 L 114.0667 249.6 L 114.0667 243.9 Z"/>
+    <path id="left-back-slot-2" d="M 95.5167 243.9 L 95.5167 249.6 L 70.3167 249.6 L 70.3167 243.9 Z"/>
+    <path id="left-back-slot-3" d="M 51.7667 243.9 L 51.7667 249.6 L 26.5667 249.6 L 26.5667 243.9 Z"/>
+    <path id="front-outline" d="M 48 42.5 L 137 42.5 L 137 88.3333 L 147.5 88.3333 L 147.5 113.3333 L 142.5 113.3333 L 142.5 108.3333 L 137 108.3333 L 137 132.0833 L 147.5 132.0833 L 147.5 157.0833 L 142.5 157.0833 L 142.5 152.0833 L 137 152.0833 L 137 175.8333 L 147.5 175.8333 L 147.5 200.8333 L 142.5 200.8333 L 142.5 195.8333 L 137 195.8333 L 137 217.5 L 48 217.5 L 48 181.25 L 42.5 181.25 L 42.5 186.25 L 37.5 186.25 L 37.5 161.25 L 48 161.25 L 48 137.5 L 42.5 137.5 L 42.5 142.5 L 37.5 142.5 L 37.5 117.5 L 48 117.5 L 48 93.75 L 42.5 93.75 L 42.5 98.75 L 37.5 98.75 L 37.5 73.75 L 48 73.75 Z"/>
+    <path id="right-outline" d="M 363 5 L 363 255 L 188 255 L 188 5 Z"/>
+    <path id="right-front-slot-1" d="M 322.2667 10.4 L 322.2667 16.1 L 297.0667 16.1 L 297.0667 10.4 Z"/>
+    <path id="right-front-slot-2" d="M 278.5167 10.4 L 278.5167 16.1 L 253.3167 16.1 L 253.3167 10.4 Z"/>
+    <path id="right-front-slot-3" d="M 234.7667 10.4 L 234.7667 16.1 L 209.5667 16.1 L 209.5667 10.4 Z"/>
+    <path id="right-back-slot-1" d="M 336.85 243.9 L 336.85 249.6 L 311.65 249.6 L 311.65 243.9 Z"/>
+    <path id="right-back-slot-2" d="M 293.1 243.9 L 293.1 249.6 L 267.9 249.6 L 267.9 243.9 Z"/>
+    <path id="right-back-slot-3" d="M 249.35 243.9 L 249.35 249.6 L 224.15 249.6 L 224.15 243.9 Z"/>
+    <path id="back-outline" d="M 231 42.5 L 320 42.5 L 320 73.75 L 330.5 73.75 L 330.5 98.75 L 325.5 98.75 L 325.5 93.75 L 320 93.75 L 320 117.5 L 330.5 117.5 L 330.5 142.5 L 325.5 142.5 L 325.5 137.5 L 320 137.5 L 320 161.25 L 330.5 161.25 L 330.5 186.25 L 325.5 186.25 L 325.5 181.25 L 320 181.25 L 320 217.5 L 231 217.5 L 231 195.8333 L 225.5 195.8333 L 225.5 200.8333 L 220.5 200.8333 L 220.5 175.8333 L 231 175.8333 L 231 152.0833 L 225.5 152.0833 L 225.5 157.0833 L 220.5 157.0833 L 220.5 132.0833 L 231 132.0833 L 231 108.3333 L 225.5 108.3333 L 225.5 113.3333 L 220.5 113.3333 L 220.5 88.3333 L 231 88.3333 L 231 73.75 Z"/>
+  </g>
+  <g id="engrave" fill="#0000ff" stroke="none" font-family="sans-serif" text-anchor="middle">
+    <text x="92.5" y="130" font-size="3">Front  100×250×175 mm, t=5.5</text>
+    <text x="8" y="130" transform="rotate(-90 8 130)" font-size="3">Left  100×250×175 mm, t=5.5</text>
+    <text x="275.5" y="130" font-size="3">Back  100×250×175 mm, t=5.5</text>
+    <text x="191" y="130" transform="rotate(-90 191 130)" font-size="3">Right  100×250×175 mm, t=5.5</text>
+  </g>
+  <!-- clearance=0.2; expected_kerf=0.15; edge_setback=5.5; tab_height=25.0; layout=nested; min_bridge=11.0; joint=hook; hook_overhang=5.0; lock_drop=5.0; neck_height=20.0 -->
+</svg>
